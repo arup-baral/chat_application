@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle"
+            android:visible="true"
+            android:useLevel="true">
+            <solid android:color="@color/chat_sent"/>
+            <corners
+                android:topRightRadius="@dimen/_30sdp"
+                android:topLeftRadius="@dimen/_30sdp"
+                android:bottomLeftRadius="@dimen/_30sdp"/>
+        </shape>
+    </item>
+</selector>

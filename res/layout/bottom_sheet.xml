@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/bottom_sheet_layout"
+    android:orientation="vertical"
+    android:background="@drawable/sign_out_bottom_sheet_layout">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/confirmation_msg"
+        android:textSize="14sp"
+        android:gravity="center"
+        android:paddingTop="14dp"
+        android:paddingBottom="14dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sign_out"
+        android:id="@+id/sign_out_text_button"
+        android:textColor="@color/red_900"
+        android:textSize="17sp"
+        android:gravity="center"
+        android:paddingTop="14dp"
+        android:paddingBottom="20dp"/>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/icon_background"
+        android:layout_marginStart="18dp"
+        android:layout_marginEnd="18dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cancel"
+        android:id="@+id/cancel_text_button"
+        android:textColor="@color/black"
+        android:textSize="17sp"
+        android:gravity="center"
+        android:paddingTop="20dp"
+        android:paddingBottom="34dp"/>
+
+</LinearLayout>

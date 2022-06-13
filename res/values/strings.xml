@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">QuickChat</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="quick_chat">Quick Chat</string>
+    <string name="share_your_thoughts">Share Your Thoughts</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="already_have_an_account_sign_in"><b><u>Already have an account? Sign in</u></b></string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="email_verification_link">A verification link is sent to this Email Address</string>
+    <string name="verify_email">Open Email</string>
+    <string name="settings">Settings</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirmation_msg">Are you sure you want to <b>Sign Out</b> ?</string>
+    <string name="add_users">Add Users</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="start_level">Level 1</string>
+    <string name="next_level">Next Level</string>
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="title_activity_choose_user">ChooseUserActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="select_user">Select user</string>
+    <string name="message">Message</string>
+    <string name="send_button">Send Button</string>
+    <string name="online">Online</string>
+    <string name="clear_chat">Clear chat</string>
+    <string name="user_profile">User Profile</string>
+    <string name="fcm_warn">FCM Token is a unique token which is only available when user is SIgned In. Never share it to anyone</string>
+    <string name="fcm_token_available">FCM Token Available</string>
+    <string name="email_is_not_verified">Email is not <b><i>Verified</i></b> (Verify your email)</string>
+    <string name="email_is_verified">Email is <b><i>Verified</i></b></string>
+    <string name="refresh">refresh</string>
+</resources>
